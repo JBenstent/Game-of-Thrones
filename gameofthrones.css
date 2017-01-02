@@ -1,0 +1,24 @@
+#container {
+  height: 1000px;
+  width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#container img {
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  border-radius: 15px;
+  margin: 5px;
+  box-shadow: 10px 10px 5px #888888;
+}
+
+#output {
+  height: 400px;
+  width: 300px;
+  margin-top: 50px;
+  margin-left: 400px;
+  border: dotted silver 1px;
+  font: 15px Helvetica;
+}
